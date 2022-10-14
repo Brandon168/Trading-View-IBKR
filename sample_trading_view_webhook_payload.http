@@ -1,0 +1,25 @@
+{
+    "passphrase": "[INSERT passphrase]",
+    "time": "2021-12-11T17:08:40Z",
+    "exchange": "GLOBEX",
+    "ticker": "ES1!",
+    "bar": {
+        "time": "2021-12-11T17:08:40Z",
+        "open": 48925.6,
+        "high": 48925.6,
+        "low": 48925.6,
+        "close": 48925.6,
+        "volume": 0.0483153
+    },
+    "strategy": {
+        "position_size": 2,
+        "order_action": "sell",
+        "order_contracts": 2,
+        "order_price": 48925.6,
+        "order_id": "RSIDivLE",
+        "market_position": "flat",
+        "market_position_size": 0,
+        "prev_market_position": "flat",
+        "prev_market_position_size": 0
+    }
+}

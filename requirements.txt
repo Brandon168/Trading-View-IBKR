@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ib_insync
+colorama
+asyncio
+fastapi_utils
+discord_notify
